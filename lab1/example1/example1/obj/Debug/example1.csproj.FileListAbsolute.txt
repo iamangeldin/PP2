@@ -1,7 +1,0 @@
-C:\Users\Админ\Desktop\PP2\lab1\example1\example1\obj\Debug\example1.csprojAssemblyReference.cache
-C:\Users\Админ\Desktop\PP2\lab1\example1\example1\obj\Debug\example1.csproj.CoreCompileInputs.cache
-C:\Users\Админ\Desktop\PP2\lab1\example1\example1\bin\Debug\example1.exe.config
-C:\Users\Админ\Desktop\PP2\lab1\example1\example1\bin\Debug\example1.exe
-C:\Users\Админ\Desktop\PP2\lab1\example1\example1\bin\Debug\example1.pdb
-C:\Users\Админ\Desktop\PP2\lab1\example1\example1\obj\Debug\example1.exe
-C:\Users\Админ\Desktop\PP2\lab1\example1\example1\obj\Debug\example1.pdb
